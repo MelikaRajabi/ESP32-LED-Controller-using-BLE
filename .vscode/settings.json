@@ -1,0 +1,6 @@
+{
+    "idf.flashType": "JTAG",
+    "cmake.configureOnOpen": false,
+    "idf.portWin": "COM6",
+    "idf.adapterTargetName": "esp32"
+}
